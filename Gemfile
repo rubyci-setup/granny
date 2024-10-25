@@ -77,5 +77,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
-  gem 'fast_ci'
+  gem 'fast_ci', '1.0.6'
 end
